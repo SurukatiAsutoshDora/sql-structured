@@ -1,0 +1,611 @@
+2023-05-15 14:49:32,818 - ERROR - {'while connecting to MongoDB', 'Error:'}
+2023-05-15 14:49:33,010 - ERROR - {'Error:', 'while connecting to MongoDB'}
+2023-05-15 17:50:29,284 - ERROR - {'Error:', 'while connecting to MongoDB'}
+2023-05-15 18:55:07,234 - ERROR - {'Error': "'Email_handler' object has no attribute 'find_total'"}
+2023-05-16 12:40:23,309 - ERROR - {'while connecting to MongoDB', 'Error:'}
+2023-05-16 15:03:59,806 - ERROR - {'Error': "192.168.0m.220:2717: [Errno 11001] getaddrinfo failed, Timeout: 30s, Topology Description: <TopologyDescription id: 64634dccd3d0a025412ff9a2, topology_type: Unknown, servers: [<ServerDescription ('192.168.0m.220', 2717) server_type: Unknown, rtt: None, error=AutoReconnect('192.168.0m.220:2717: [Errno 11001] getaddrinfo failed')>]>"}
+2023-05-16 15:04:45,885 - ERROR - {'error': "192.168.0m.220:2717: [Errno 11001] getaddrinfo failed, Timeout: 30s, Topology Description: <TopologyDescription id: 64634e107be3c9bce83e49ba, topology_type: Unknown, servers: [<ServerDescription ('192.168.0m.220', 2717) server_type: Unknown, rtt: None, error=AutoReconnect('192.168.0m.220:2717: [Errno 11001] getaddrinfo failed')>]>"}
+2023-05-16 15:14:11,357 - INFO - This is an information log message
+2023-05-16 15:14:11,357 - ERROR - This is an error log message
+2023-05-16 15:16:07,303 - ERROR - {'while connecting to MongoDB', 'Error:'}
+2023-05-16 15:16:31,927 - ERROR - {'while connecting to MongoDB', 'Error:'}
+2023-05-16 15:16:46,785 - ERROR - {'while connecting to MongoDB', 'Error:'}
+2023-05-16 15:16:49,489 - ERROR - {'Error:', 'while connecting to MongoDB'}
+2023-05-16 15:16:54,645 - ERROR - {'while connecting to MongoDB', 'Error:'}
+2023-05-16 15:16:59,479 - ERROR - {'while connecting to MongoDB', 'Error:'}
+2023-05-16 15:17:05,185 - ERROR - {'Error:', 'while connecting to MongoDB'}
+2023-05-16 15:18:06,199 - ERROR - {'while connecting to MongoDB', 'Error:'}
+2023-05-16 15:18:15,412 - ERROR - {'while connecting to MongoDB', 'Error:'}
+2023-05-16 15:18:32,922 - ERROR - {'while connecting to MongoDB', 'Error:'}
+2023-05-16 15:19:45,703 - ERROR - {'while connecting to MongoDB', 'Error:'}
+2023-05-16 15:20:46,800 - ERROR - {'while connecting to MongoDB', 'Error:'}
+2023-05-17 10:09:01,331 - ERROR - mongo.py:9 - <module> - {'Error:', 'while connecting to MongoDB'}
+2023-05-17 10:09:17,767 - ERROR - mongo.py:9 - <module> - {'while connecting to MongoDB', 'Error:'}
+2023-05-17 10:19:26,084 - ERROR - mongo.py:10 - <module> - {'Error:', 'while connecting to MongoDB'}
+2023-05-17 10:23:42,855 - ERROR - mongo.py:10 - <module> - {'Error:', 'while connecting to MongoDB'}
+2023-05-17 10:30:23,710 - ERROR - inventory_services.py:79 - sending_item - {'Error': 'pipeline must be a list'}
+2023-05-17 10:30:49,915 - ERROR - inventory_services.py:79 - sending_item - {'Error': 'pipeline must be a list'}
+2023-05-17 10:37:44,425 - ERROR - inventory_services.py:79 - sending_item - {'Error': "'Total_Price'"}
+2023-05-17 10:39:36,285 - ERROR - inventory_handler.py:45 - update_item - {'error': 'Item not found'}
+2023-05-17 10:39:47,393 - ERROR - inventory_handler.py:45 - update_item - {'error': 'Item not found'}
+2023-05-17 10:40:40,733 - ERROR - inventory_handler.py:71 - find_total - {'error': "'Total_Price'"}
+2023-05-17 10:42:55,932 - ERROR - inventory_handler.py:71 - find_total - {'error': "'total_amount'"}
+2023-05-17 12:50:22,424 - ERROR - inventory_services.py:79 - sending_item - {'Error': 'Object of type datetime is not JSON serializable'}
+2023-05-17 12:57:00,076 - ERROR - inventory_services.py:79 - sending_item - {'Error': 'Object of type datetime is not JSON serializable'}
+2023-05-17 13:40:44,488 - ERROR - mongo_utility.py:11 - <module> - {'while connecting to MongoDB', 'Error:'}
+2023-05-18 09:40:47,590 - ERROR - inventory_services.py:79 - sending_item - {'Error': 'the JSON object must be str, bytes or bytearray, not list'}
+2023-05-18 09:42:16,585 - ERROR - inventory_services.py:79 - sending_item - {'Error': 'the JSON object must be str, bytes or bytearray, not list'}
+2023-05-18 10:03:36,667 - ERROR - inventory_services.py:79 - sending_item - {'Error': "name 'new1' is not defined"}
+2023-05-18 10:04:03,868 - ERROR - inventory_services.py:79 - sending_item - {'Error': 'can only concatenate str (not "PrettyTable") to str'}
+2023-05-18 10:07:57,318 - ERROR - inventory_services.py:79 - sending_item - {'Error': "Alignment ['l', 'l', 'l', 'l', 'l', 'l', 'l'] is invalid, use l, c or r"}
+2023-05-18 10:27:42,095 - ERROR - inventory_services.py:79 - sending_item - {'Error': "tabulate() got an unexpected keyword argument 'colwidths'"}
+2023-05-18 12:23:48,257 - ERROR - inventory_handler.py:25 - delete_item - {'error', 'Item not found'}
+2023-05-18 12:24:09,100 - ERROR - inventory_handler.py:25 - delete_item - {'error', 'Item not found'}
+2023-05-18 12:25:12,974 - ERROR - inventory_handler.py:25 - delete_item - {'error': 'Item not found'}
+2023-05-18 12:43:06,867 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 12:45:23,663 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 12:45:28,504 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 12:45:37,798 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 12:45:47,151 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 12:46:06,548 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 12:46:10,794 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 12:46:16,103 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 12:46:19,285 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 12:46:23,054 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 12:49:02,883 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 16:20:43,895 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 16:21:08,830 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 16:21:17,175 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-18 17:49:18,120 - INFO - mongo.py:29 - delete_item - {'Message': 'Item deleted succesfully'}
+2023-05-18 17:49:21,478 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-18 17:49:32,474 - ERROR - inventory_services.py:67 - total_price - {'Error': "'Item_handler' object has no attribute 'total_price'"}
+2023-05-18 17:53:06,196 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 17:53:39,770 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 17:55:47,804 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 17:55:55,981 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 17:56:05,044 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 17:56:15,272 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 17:56:31,718 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 17:56:40,786 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 17:58:22,223 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 17:59:02,366 - ERROR - inventory_services.py:89 - get_total - {'Error': "'Item_handler' object has no attribute 'find_total'"}
+2023-05-18 17:59:12,993 - ERROR - inventory_services.py:67 - total_price - {'Error': "'Item_handler' object has no attribute 'total_price'"}
+2023-05-18 17:59:37,644 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 17:59:43,760 - ERROR - inventory_services.py:67 - total_price - {'Error': "'Item_handler' object has no attribute 'total_price'"}
+2023-05-18 18:37:25,462 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 18:37:43,197 - INFO - mongo.py:59 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-18 18:38:48,373 - INFO - mongo.py:80 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-18 18:54:53,078 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-18 18:54:56,561 - INFO - mongo.py:59 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-18 18:55:06,861 - INFO - mongo.py:80 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 09:43:17,555 - ERROR - mongo_utility.py:11 - <module> - {'while connecting to MongoDB', 'Error:'}
+2023-05-19 09:43:42,792 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:18:44,358 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:18:54,047 - INFO - mongo.py:80 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 12:18:56,532 - INFO - mongo.py:59 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 12:19:28,853 - INFO - mongo.py:80 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 12:19:28,860 - INFO - mongo.py:59 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 12:19:32,077 - INFO - email_handler.py:47 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 12:19:32,078 - INFO - inventory_services.py:76 - sending_item - {'Email sent successfully'}
+2023-05-19 12:19:50,777 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:21:17,278 - INFO - mongo.py:80 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 12:21:17,284 - INFO - mongo.py:59 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 12:21:17,287 - ERROR - inventory_services.py:79 - sending_item - {'Error': "name 'table' is not defined"}
+2023-05-19 12:21:49,892 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:21:55,129 - INFO - mongo.py:80 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 12:21:55,134 - INFO - mongo.py:59 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 12:21:55,138 - ERROR - inventory_services.py:79 - sending_item - {'Error': 'can only concatenate str (not "DatetimeArray") to str'}
+2023-05-19 12:23:29,977 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:23:34,707 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:23:37,577 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:23:41,939 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:23:43,823 - INFO - mongo.py:80 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 12:23:43,828 - INFO - mongo.py:59 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 12:23:46,882 - INFO - email_handler.py:41 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 12:23:46,884 - INFO - inventory_services.py:76 - sending_item - {'Email sent successfully'}
+2023-05-19 12:25:40,617 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:25:52,908 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:25:56,001 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:26:14,056 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:26:22,834 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:26:26,716 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:26:33,070 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:26:38,070 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:26:41,045 - INFO - mongo.py:80 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 12:26:41,055 - INFO - mongo.py:59 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 12:26:41,061 - ERROR - inventory_services.py:79 - sending_item - {'Error': "'str' object has no attribute 'to_csv'"}
+2023-05-19 12:27:08,311 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:27:11,911 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:27:13,460 - INFO - mongo.py:80 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 12:27:13,465 - INFO - mongo.py:59 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 12:27:16,551 - INFO - email_handler.py:41 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 12:27:16,552 - INFO - inventory_services.py:76 - sending_item - {'Email sent successfully'}
+2023-05-19 12:29:41,527 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:46:14,756 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:46:26,941 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:46:37,624 - INFO - mongo_utility.py:10 - <module> - {}
+2023-05-19 12:46:38,161 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:46:42,703 - INFO - mongo_utility.py:10 - <module> - {'Messgae:'}
+2023-05-19 12:46:43,061 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:46:47,015 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': ''}
+2023-05-19 12:46:47,464 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:46:53,422 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesful'}
+2023-05-19 12:46:53,821 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:46:57,258 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully conn'}
+2023-05-19 12:46:57,647 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:47:00,642 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected '}
+2023-05-19 12:47:03,808 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 12:47:04,191 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:47:12,345 - INFO - mongo.py:59 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 12:47:19,046 - INFO - mongo.py:41 - update_item - {'Message': 'It is updated successfully'}
+2023-05-19 12:47:22,586 - INFO - mongo.py:59 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 12:47:27,711 - INFO - mongo.py:29 - delete_item - {'Message': 'Item deleted succesfully'}
+2023-05-19 12:47:34,446 - INFO - mongo.py:14 - add_item - {'message': 'Successfully Added'}
+2023-05-19 12:47:43,203 - INFO - mongo.py:80 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 12:47:48,476 - ERROR - inventory_services.py:67 - total_price - {'Error': "'Item_handler' object has no attribute 'total_price'"}
+2023-05-19 12:49:49,719 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 12:49:50,087 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 12:49:50,730 - INFO - mongo.py:80 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 12:49:50,735 - INFO - mongo.py:59 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 12:49:54,311 - INFO - email_handler.py:41 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 12:49:54,312 - INFO - inventory_services.py:76 - sending_item - {'Email sent successfully'}
+2023-05-19 13:45:55,828 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 13:45:56,222 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 13:45:59,614 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 13:45:59,984 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 13:46:03,721 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 13:46:04,102 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 13:58:37,154 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 13:58:37,681 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 13:58:42,330 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 13:58:42,691 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:12:07,170 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:12:09,311 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:12:09,659 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:12:21,280 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:12:21,630 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:12:36,065 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:12:36,447 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:12:38,334 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:12:38,733 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:12:41,539 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:12:41,913 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:12:49,639 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:12:49,989 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:12:57,613 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:12:58,143 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:13:02,481 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:13:02,839 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:13:08,945 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:13:09,295 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:13:20,380 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:13:20,726 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:13:44,127 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:13:44,480 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:13:49,162 - INFO - mongo.py:59 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 14:16:26,943 - INFO - mongo.py:14 - add_item - {'message': 'Successfully Added'}
+2023-05-19 14:16:53,225 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:16:53,662 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:16:57,465 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:16:57,835 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:18:22,450 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:18:22,900 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:18:38,853 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:18:39,241 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:18:41,663 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:18:42,019 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:19:37,051 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:19:37,432 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:20:02,438 - WARNING - mongo.py:12 - add_item - {'Warning': 'This ID is already present'}
+2023-05-19 14:21:27,061 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:21:27,458 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:21:27,974 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 14:21:28,639 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 14:21:38,304 - WARNING - mongo.py:25 - delete_item - {'Warning': 'Item not found'}
+2023-05-19 14:22:03,504 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:22:03,896 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:22:04,300 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 14:22:19,998 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:22:20,361 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:22:20,747 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 14:22:27,295 - ERROR - mongo_utility.py:12 - <module> - {'while connecting to MongoDB', 'Error:'}
+2023-05-19 14:22:39,791 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:22:40,177 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:22:40,644 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 14:23:50,314 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 14:23:50,666 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 14:23:51,065 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 14:23:55,530 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 14:24:07,521 - INFO - mongo.py:42 - update_item - {'Message': 'It is updated successfully'}
+2023-05-19 17:45:54,566 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 17:45:55,478 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 17:45:56,218 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:00:29,483 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 18:00:30,095 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 18:00:30,946 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:00:39,380 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 18:00:43,297 - INFO - mongo.py:82 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 18:00:43,307 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 18:00:46,502 - INFO - email_handler.py:39 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 18:00:46,505 - INFO - inventory_services.py:79 - sending_item - {'Email sent successfully'}
+2023-05-19 18:03:47,577 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 18:03:48,122 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 18:03:48,792 - INFO - inventory_services.py:12 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:07:16,914 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 18:07:17,292 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 18:07:17,687 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:40:31,679 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 18:40:32,350 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 18:40:35,931 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-19 18:40:36,641 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-19 18:40:37,316 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-19 18:40:38,002 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 18:40:41,829 - INFO - mongo.py:82 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-19 18:40:41,836 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-19 18:40:44,803 - INFO - email_handler.py:39 - send_email - {'message': 'Email sent successfully'}
+2023-05-19 18:40:44,806 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-22 16:32:38,591 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:32:39,093 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:32:39,655 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:32:46,470 - INFO - mongo.py:82 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-22 16:32:46,477 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-22 16:32:49,520 - INFO - email_handler.py:39 - send_email - {'message': 'Email sent successfully'}
+2023-05-22 16:32:49,521 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-22 16:33:47,964 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:33:48,331 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:33:48,728 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:33:54,825 - INFO - mongo.py:82 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-22 16:33:54,829 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-22 16:34:00,303 - INFO - email_handler.py:39 - send_email - {'message': 'Email sent successfully'}
+2023-05-22 16:34:00,304 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-22 16:35:17,868 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:35:18,266 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:35:18,697 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:35:20,731 - INFO - mongo.py:82 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-22 16:35:20,739 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-22 16:35:24,027 - INFO - email_handler.py:39 - send_email - {'message': 'Email sent successfully'}
+2023-05-22 16:35:24,029 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-22 16:36:44,161 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:36:44,578 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:36:45,003 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:38:20,040 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:38:23,896 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:38:27,890 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:38:32,493 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:38:37,679 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:38:45,138 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:38:56,481 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:39:01,098 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:39:03,329 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:39:15,992 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:39:16,371 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:39:16,817 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:39:38,740 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:39:39,191 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:39:39,653 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:39:42,172 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:39:42,578 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:39:42,973 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:39:45,495 - INFO - mongo.py:82 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-22 16:39:45,505 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-22 16:39:48,972 - INFO - email_handler.py:80 - send_email - {'message': 'Email sent successfully'}
+2023-05-22 16:39:48,973 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-22 16:40:38,953 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:40:39,377 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:40:39,838 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:41:31,230 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:41:31,604 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:41:32,008 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:41:40,701 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:41:41,067 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:41:41,466 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:42:09,158 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:42:09,612 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:42:10,075 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:42:17,477 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:42:22,642 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:42:25,003 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:42:25,596 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:42:26,039 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:42:31,415 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:42:31,807 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:42:32,275 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:42:35,086 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:42:39,724 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:42:40,113 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:42:40,562 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:42:42,973 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:42:43,328 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:42:43,727 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:42:51,416 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:42:51,851 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:42:52,315 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:42:56,563 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:42:56,983 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:42:57,412 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:43:01,630 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:43:01,988 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:43:02,382 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:43:13,009 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:43:13,410 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:43:13,840 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:43:16,745 - INFO - mongo.py:82 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-22 16:43:16,751 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-22 16:43:16,752 - ERROR - inventory_services.py:81 - sending_item - {'Error:': "'list' object has no attribute 'json'"}
+2023-05-22 16:43:33,691 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:43:36,223 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:43:36,612 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:43:37,125 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:43:38,364 - INFO - mongo.py:82 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-22 16:43:38,374 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-22 16:43:38,375 - ERROR - inventory_services.py:81 - sending_item - {'Error:': "'Json2Html' object is not callable"}
+2023-05-22 16:43:54,200 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:43:54,670 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:43:55,113 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:43:57,431 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:43:57,886 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:43:58,497 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:44:00,996 - INFO - mongo.py:82 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-22 16:44:01,036 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-22 16:44:04,253 - INFO - email_handler.py:39 - send_email - {'message': 'Email sent successfully'}
+2023-05-22 16:44:04,255 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-22 16:50:56,225 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:51:02,286 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:51:04,620 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:51:10,432 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:51:11,068 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:51:11,621 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:51:21,527 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:51:21,919 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:51:22,572 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:51:25,993 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:51:26,397 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:51:26,812 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:51:36,194 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:51:36,678 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:51:37,124 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:51:41,672 - INFO - mongo.py:82 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-22 16:51:41,680 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-22 16:51:45,667 - INFO - email_handler.py:62 - send_email - {'message': 'Email sent successfully'}
+2023-05-22 16:51:45,668 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-22 16:53:19,622 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:53:25,374 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:53:27,443 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:54:43,307 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:54:45,904 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:54:49,687 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:54:54,424 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:54:57,774 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:55:02,831 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:55:05,662 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:55:10,248 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:55:12,572 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:55:14,870 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:55:21,824 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:55:31,599 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:55:35,320 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:55:58,540 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:56:00,957 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:56:01,352 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:56:03,545 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:56:06,997 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:56:07,355 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:56:07,746 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:56:45,699 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:56:46,202 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:56:46,752 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:56:47,821 - INFO - mongo.py:82 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-22 16:56:47,839 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-22 16:56:51,255 - INFO - email_handler.py:68 - send_email - {'message': 'Email sent successfully'}
+2023-05-22 16:56:51,256 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-22 16:57:34,534 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:57:35,068 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:57:35,547 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:58:04,662 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:58:05,152 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:58:07,433 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 16:58:07,841 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 16:58:08,243 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 16:58:14,780 - INFO - mongo.py:82 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-22 16:58:14,991 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-22 16:58:18,159 - INFO - email_handler.py:67 - send_email - {'message': 'Email sent successfully'}
+2023-05-22 16:58:18,161 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-22 17:02:57,541 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 17:02:57,995 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 17:02:58,428 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 17:03:12,596 - INFO - mongo.py:82 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-22 17:03:12,601 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-22 17:03:15,881 - INFO - email_handler.py:68 - send_email - {'message': 'Email sent successfully'}
+2023-05-22 17:03:15,883 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-22 17:32:03,254 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-22 19:02:01,525 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-22 19:02:02,000 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-22 19:02:02,862 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-22 19:02:24,632 - INFO - mongo.py:82 - find_total - {'Message:': 'Succesfully found the total'}
+2023-05-22 19:02:24,642 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-22 19:02:28,607 - INFO - email_handler.py:68 - send_email - {'message': 'Email sent successfully'}
+2023-05-22 19:02:28,608 - INFO - inventory_services.py:78 - sending_item - {'Email sent successfully'}
+2023-05-23 11:24:56,236 - ERROR - mongo_utility.py:12 - <module> - {'while connecting to MongoDB', 'Error:'}
+2023-05-23 11:25:30,066 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-23 11:25:32,253 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-23 11:25:33,025 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-23 11:25:33,642 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-23 11:31:15,775 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-05-23 11:31:16,143 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-05-23 11:31:16,524 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-05-23 11:45:56,868 - INFO - mongo.py:60 - fetch - {'Message:': 'Succesfully fetched '}
+2023-05-23 11:46:11,903 - ERROR - inventory_services.py:69 - total_price - {'Error': "'Item_handler' object has no attribute 'total_price'"}
+2023-05-23 11:46:17,790 - INFO - inventory_services.py:89 - find_total - {'Message:': 'Fetched succesfully'}
+2023-05-23 11:46:17,829 - INFO - mongo.py:82 - find_total - {'Message:': 'Succesfully found the total'}
+2023-06-27 15:50:01,225 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Monogo'}
+2023-06-27 15:50:01,961 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-06-27 15:50:02,602 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-06-27 15:50:14,514 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-06-27 15:50:16,696 - ERROR - mongo_utility.py:12 - <module> - {'Error:', 'while connecting to MongoDB'}
+2023-06-27 15:50:41,991 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-06-27 15:50:42,535 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-06-27 15:50:42,985 - INFO - inventory_services.py:11 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 11:13:29,052 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 11:13:30,649 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 11:13:32,186 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 11:13:32,209 - INFO - inventory_services.py:19 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 11:14:07,872 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 11:14:08,260 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 11:14:09,028 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 11:14:09,038 - INFO - inventory_services.py:19 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 11:15:20,290 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 11:15:20,694 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 11:15:21,420 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 11:17:41,164 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 11:17:41,631 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 11:17:42,537 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 11:17:45,336 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 11:17:45,780 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 11:17:46,562 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 11:17:46,584 - INFO - inventory_services.py:20 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 11:17:53,017 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 11:17:53,511 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 11:17:54,481 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 11:17:54,492 - INFO - inventory_services.py:20 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 11:20:49,420 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 11:20:49,835 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 11:20:50,511 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 11:20:50,521 - INFO - inventory_services.py:20 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 11:21:56,974 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 11:21:57,599 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 11:22:00,448 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 11:22:00,980 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 11:22:01,845 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 11:22:03,832 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 11:22:04,208 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 11:22:05,212 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 11:22:05,228 - INFO - inventory_services.py:20 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:12:50,735 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:12:51,141 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 12:12:51,935 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:12:51,956 - INFO - inventory_services.py:21 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:14:15,847 - ERROR - inventory_services.py:44 - adding_item - {'Error': 'Item_handler.add_item() takes 3 positional arguments but 4 were given'}
+2023-07-05 12:16:51,243 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:16:51,681 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 12:16:52,519 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:16:52,529 - INFO - inventory_services.py:21 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:17:00,290 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:17:00,659 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 12:17:01,957 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:17:01,971 - INFO - inventory_services.py:21 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:17:05,193 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:17:05,879 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 12:17:06,712 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:17:06,726 - INFO - inventory_services.py:21 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:17:10,415 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:17:10,852 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 12:17:13,813 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:17:14,184 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 12:17:15,339 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:17:15,353 - INFO - inventory_services.py:21 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:17:25,813 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:17:28,186 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:17:30,368 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:17:30,835 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 12:17:31,624 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:17:31,632 - INFO - inventory_services.py:17 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:17:34,142 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:17:34,665 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 12:17:35,686 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:17:35,698 - INFO - inventory_services.py:17 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:17:53,346 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:17:53,715 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 12:17:54,463 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:17:54,467 - INFO - inventory_services.py:17 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:18:00,381 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:18:00,759 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 12:18:01,495 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:18:01,499 - INFO - inventory_services.py:17 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:18:06,148 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:18:06,528 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 12:18:07,231 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:18:07,237 - INFO - inventory_services.py:17 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:18:11,393 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:18:11,784 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 12:18:12,501 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:18:12,508 - INFO - inventory_services.py:17 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:18:30,153 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:18:30,510 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 12:18:31,230 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:18:31,234 - INFO - inventory_services.py:17 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:18:38,558 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:18:38,968 - INFO - utils.py:160 - _init_num_threads - NumExpr defaulting to 4 threads.
+2023-07-05 12:18:39,797 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:18:39,802 - INFO - inventory_services.py:17 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:19:04,501 - ERROR - inventory_services.py:40 - adding_item - {'Error': 'sql_item_handler.add_item() takes 3 positional arguments but 4 were given'}
+2023-07-05 12:26:40,111 - ERROR - inventory_services.py:40 - adding_item - {'Error': 'sql_item_handler.add_item() takes 3 positional arguments but 4 were given'}
+2023-07-05 12:28:20,774 - ERROR - inventory_services.py:73 - fetch - {'Error': 'Item_handler.fetch() takes 1 positional argument but 2 were given'}
+2023-07-05 12:34:41,155 - ERROR - inventory_services.py:40 - adding_item - {'Error': 'sql_item_handler.add_item() takes 3 positional arguments but 4 were given'}
+2023-07-05 12:34:59,548 - ERROR - inventory_services.py:73 - fetch - {'Error': 'Item_handler.fetch() takes 1 positional argument but 2 were given'}
+2023-07-05 12:35:52,264 - ERROR - inventory_services.py:73 - fetch - {'Error': 'Item_handler.fetch() takes 1 positional argument but 2 were given'}
+2023-07-05 12:36:51,269 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:37:05,006 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:37:05,417 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:37:05,423 - INFO - inventory_services.py:16 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:38:03,092 - ERROR - inventory_services.py:38 - adding_item - {'Error': 'sql_item_handler.add_item() takes 3 positional arguments but 4 were given'}
+2023-07-05 12:39:28,356 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:39:28,718 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:39:28,723 - INFO - inventory_services.py:16 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:39:50,630 - ERROR - inventory_services.py:59 - updating_item - {'Error': "'Item' object has no attribute 'items'"}
+2023-07-05 12:46:01,706 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:46:02,073 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:46:02,078 - INFO - inventory_services.py:16 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:46:17,566 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:46:17,972 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:46:17,978 - INFO - inventory_services.py:16 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:46:23,079 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:46:23,421 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:46:23,426 - INFO - inventory_services.py:16 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:46:30,264 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:46:30,640 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:46:30,646 - INFO - inventory_services.py:16 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:46:34,570 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:46:34,938 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:46:34,948 - INFO - inventory_services.py:16 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:47:53,986 - ERROR - inventory_services.py:38 - adding_item - {'Error': 'sql_item_handler.add_item() takes 3 positional arguments but 4 were given'}
+2023-07-05 12:48:38,292 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:48:38,635 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:48:38,666 - INFO - inventory_services.py:16 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:49:12,319 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:49:13,024 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:49:13,032 - INFO - inventory_services.py:16 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:49:18,582 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:49:18,973 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:49:18,979 - INFO - inventory_services.py:16 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:49:30,802 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:49:31,450 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:49:31,456 - INFO - inventory_services.py:16 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:49:36,802 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:49:37,137 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:49:37,143 - INFO - inventory_services.py:16 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:49:57,286 - ERROR - inventory_services.py:38 - adding_item - {'Error': 'sql_item_handler.add_item() takes 3 positional arguments but 4 were given'}
+2023-07-05 12:57:37,325 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:57:37,692 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:57:37,697 - INFO - inventory_services.py:16 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:57:43,562 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:57:43,876 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:57:43,882 - INFO - inventory_services.py:16 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:58:49,715 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 12:58:50,046 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 12:58:50,051 - INFO - inventory_services.py:16 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 12:59:11,962 - ERROR - inventory_services.py:38 - adding_item - {'Error': '(psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "TRIAL10_pkey"\nDETAIL:  Key (item_id)=(123) already exists.\n\n[SQL: INSERT INTO "TRIAL10" (item_id, item_name, item_price, item_volume, item_manufacture_date, item_expiry_date, item_shelf_number) VALUES (%(item_id)s, %(item_name)s, %(item_price)s, %(item_volume)s, %(item_manufacture_date)s, %(item_expiry_date)s, %(item_shelf_number)s)]\n[parameters: {\'item_id\': 123, \'item_name\': \'asutosh\', \'item_price\': 0, \'item_volume\': 0, \'item_manufacture_date\': datetime.datetime(2023, 7, 5, 7, 29, 0, 195000, tzinfo=datetime.timezone.utc), \'item_expiry_date\': datetime.datetime(2023, 7, 5, 7, 29, 0, 195000, tzinfo=datetime.timezone.utc), \'item_shelf_number\': \'string\'}]\n(Background on this error at: https://sqlalche.me/e/14/gkpj)'}
+2023-07-05 13:00:17,264 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 13:00:17,845 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 13:00:17,850 - INFO - inventory_services.py:16 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 13:00:37,755 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 13:00:38,381 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 13:00:38,386 - INFO - inventory_services.py:16 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 13:00:54,022 - ERROR - inventory_services.py:38 - adding_item - {'Error': 'sql_item_handler.add_item() takes 3 positional arguments but 4 were given'}
+2023-07-05 13:02:07,246 - ERROR - inventory_services.py:38 - adding_item - {'Error': 'sql_item_handler.add_item() takes 3 positional arguments but 4 were given'}
+2023-07-05 13:02:34,744 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 13:02:35,078 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 13:02:35,083 - INFO - inventory_services.py:16 - <module> - {'Message': 'succesfully established the api router'}
+2023-07-05 13:03:04,275 - ERROR - inventory_services.py:38 - adding_item - {'Error': 'sql_item_handler.add_item() takes 3 positional arguments but 4 were given'}
+2023-07-05 13:07:15,605 - INFO - mongo_utility.py:10 - <module> - {'Messgae:': 'Succesfully connected Mongo'}
+2023-07-05 13:07:15,977 - INFO - sql_utility.py:14 - <module> - {'Successfully connected to the database'}
+2023-07-05 13:07:15,987 - INFO - inventory_services.py:16 - <module> - {'Message': 'succesfully established the api router'}
